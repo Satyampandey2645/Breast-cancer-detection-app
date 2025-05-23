@@ -38,14 +38,6 @@ Breast cancer is one of the most common and life-threatening diseases among wome
 
 ---
 
-## 🧪 How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/breast-cancer-detection-app.git
-cd breast-cancer-detection-app
-
 📈 Model Performance
 | Model          | Accuracy |
 | -------------- | -------- |
